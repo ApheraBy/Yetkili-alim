@@ -1,1 +1,1 @@
-# Yetkili-alim
+# discord.gg/altyapilar 
