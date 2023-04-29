@@ -1,0 +1,1 @@
+# Yetkili-alim
