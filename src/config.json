@@ -1,12 +1,12 @@
 {
     "bot": {
-        "token": "MTEwMzAyODAzODI3MjI4Njc1MQ.GKwfuI.o4dlXDnKNhOE-zvjM3Ko0MtbnnCvx6taojC-Og"
+        "token": "TOKEN"
     },
     "owners": [
-        "257295186449793034"
+        "SAHİP İD"
     ],
     "system": {
         "everyone": true,
-        "log": "1103258886355570698"
+        "log": "LOG KANALI YETKİLİ"
     }
 }
