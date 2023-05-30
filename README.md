@@ -1,2 +1,2 @@
 # discord.gg/altyapilar 
-![yetkili alım](https://github.com/ApheraBy/Yetkili-alim/assets/74432256/8e4e631a-1827-46ea-bb70-f6a0cb9f8ddb)
+![yetkili alım](https://github.com/ApheraBy/Yetkili-alim/assets/74432256/310de7ec-9f36-4d54-b932-cc4801d346d5)
